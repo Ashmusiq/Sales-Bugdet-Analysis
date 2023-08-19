@@ -1,1 +1,2 @@
 # Sales-Bugdet-Analysis
+The Sales and Budget Dashboard using Power BI is a dynamic and visually engaging data visualization project that aims to track and analyze sales performance against budget targets for a given time period. The dashboard provides an easy-to-understand overview of the sales figures, budget allocations, and performance metrics for better decision-making and performance evaluation.
